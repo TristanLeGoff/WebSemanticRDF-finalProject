@@ -1,0 +1,39 @@
+_:b0 <http://www.owl-ontologies.com/itineraire.owl/arrivalTime> "20210326T182500" .
+_:b0 <http://www.owl-ontologies.com/itineraire.owl/cityArrive> "Rennes" .
+_:b0 <http://www.owl-ontologies.com/itineraire.owl/cityArriveMeteo> "11"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b0 <http://www.owl-ontologies.com/itineraire.owl/cityDepart> "Fontenay-sous-Bois" .
+_:b0 <http://www.owl-ontologies.com/itineraire.owl/cityDepartMeteo> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b0 <http://www.owl-ontologies.com/itineraire.owl/co2emisson> "1.2757016E3"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b0 <http://www.owl-ontologies.com/itineraire.owl/departureTime> "20210326T151640" .
+_:b0 <http://www.owl-ontologies.com/itineraire.owl/totalDuration> "11300"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b0 <http://www.owl-ontologies.com/itineraire.owl/transfer> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b0 <http://www.owl-ontologies.com/etape.owl/cityArrivalTime> "20210326T152740" .
+_:b0 <http://www.owl-ontologies.com/etape.owl/cityDepartureTime> "20210326T151640" .
+_:b0 <http://www.owl-ontologies.com/etape.owl/cityEnd> "Châtelet-les-Halles (Paris)" .
+_:b0 <http://www.owl-ontologies.com/etape.owl/cityStart> "Fontenay-sous-Bois (Fontenay-sous-Bois)" .
+_:b0 <http://www.owl-ontologies.com/etape.owl/description> "RER A direction : Cergy-le-Haut (Cergy)" .
+_:b0 <http://www.owl-ontologies.com/etape.owl/order> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b1 <http://www.owl-ontologies.com/etape.owl/cityArrivalTime> "20210326T153358" .
+_:b1 <http://www.owl-ontologies.com/etape.owl/cityDepartureTime> "20210326T153236" .
+_:b1 <http://www.owl-ontologies.com/etape.owl/cityEnd> "St-Michel (Paris)" .
+_:b1 <http://www.owl-ontologies.com/etape.owl/cityStart> "Châtelet-les-Halles (Paris)" .
+_:b1 <http://www.owl-ontologies.com/etape.owl/description> "RER B direction : Robinson (Sceaux)" .
+_:b1 <http://www.owl-ontologies.com/etape.owl/order> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b2 <http://www.owl-ontologies.com/etape.owl/cityArrivalTime> "20210326T161320" .
+_:b2 <http://www.owl-ontologies.com/etape.owl/cityDepartureTime> "20210326T154330" .
+_:b2 <http://www.owl-ontologies.com/etape.owl/cityEnd> "Viroflay-Rive-Gauche (Viroflay)" .
+_:b2 <http://www.owl-ontologies.com/etape.owl/cityStart> "St-Michel-Notre-Dame (Paris)" .
+_:b2 <http://www.owl-ontologies.com/etape.owl/description> "RER C direction : Versailles-Château-RG (Versailles)" .
+_:b2 <http://www.owl-ontologies.com/etape.owl/order> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b3 <http://www.owl-ontologies.com/etape.owl/cityArrivalTime> "20210326T163700" .
+_:b3 <http://www.owl-ontologies.com/etape.owl/cityDepartureTime> "20210326T162020" .
+_:b3 <http://www.owl-ontologies.com/etape.owl/cityEnd> "Paris-Montparnasse 1-2 (Paris)" .
+_:b3 <http://www.owl-ontologies.com/etape.owl/cityStart> "Viroflay-Rive-Gauche (Viroflay)" .
+_:b3 <http://www.owl-ontologies.com/etape.owl/description> "TRANSILIEN N direction : Paris-Montparnasse 1-2 (Paris)" .
+_:b3 <http://www.owl-ontologies.com/etape.owl/order> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b4 <http://www.owl-ontologies.com/etape.owl/cityArrivalTime> "20210326T182500" .
+_:b4 <http://www.owl-ontologies.com/etape.owl/cityDepartureTime> "20210326T165700" .
+_:b4 <http://www.owl-ontologies.com/etape.owl/cityEnd> "Rennes (Rennes)" .
+_:b4 <http://www.owl-ontologies.com/etape.owl/cityStart> "Paris-Montparnasse 1-2 (Paris)" .
+_:b4 <http://www.owl-ontologies.com/etape.owl/description> "TGV  direction : Brest (Brest)" .
+_:b4 <http://www.owl-ontologies.com/etape.owl/order> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
